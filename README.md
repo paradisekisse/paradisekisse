@@ -1,5 +1,4 @@
-![;'](https://komarev.com/ghpvc/?username=paradisekisse)
-<div id="header" align="center">
+![](https://komarev.com/ghpvc/?username=paradisekisse&label=Visitors&color=red&style=flat)
 
   
 
