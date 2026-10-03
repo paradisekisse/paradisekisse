@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=paradisekisse&label=Visitors&color=red&style=flat)
+![](https://komarev.com/ghpvc/?username=paradisekisse&label=★&color=red&style=flat)
 
   
 
