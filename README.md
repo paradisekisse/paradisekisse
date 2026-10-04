@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=paradisekisse&label=Views)
+![](https://komarev.com/ghpvc/?username=paradisekisse&label=★&base=1000)
 <div id="header" align="center">
 <a >
 <a href=https://pancreass.atabook.org/>
